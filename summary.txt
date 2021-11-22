@@ -1,0 +1,10 @@
+# Summary
+In summary, we present a deep neural network classification model that predicts loan applicant success from feature data contained in charity_data.csv with 73% accuracy. 
+This does not meet the 75% accuracy target, and the optimization methods employed here have not caused significant improvement.
+
+# Additional Optimization Methods
+Performance could increase through additional optimization techniques such as visualizing the numerical feature variable ASK_AMT to find and remove potential outliers that could be causing noise. 
+
+# Alternative Models
+An alternative to the deep learning classification model presented in this project could be a Random Forest Classifier. 
+It is helpful in that there are less parameters to optimize and those which do require attention are easier to use than those in a neural network.
